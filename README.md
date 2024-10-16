@@ -3,7 +3,7 @@
 🧑🏽‍💻 Web Developper Student sharing his Personnal Projects and his Journey through Tech <br/>
 🧑🏽‍🎓 Studied [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) in the Studi Bootcamp <br/>
 💭 Currently learning more about technologies of Web and AI automation for [Music Industry](https://www.youtube.com/watch?v=i_Iq4_Kd7Rc&t=15097s) <br/>
-📝 Here is my [resume]([MTeck_s_Resume.pdf](https://github.com/user-attachments/files/17397387/MTeck_s_Resume.pdf)) for curious people <br/>
+📝 Here is my [resume](https://www.overleaf.com/1256273894xzwkggrqfhqh#6b6fbf) for curious people <br/>
 
 
 ## 🌐 Socials:
