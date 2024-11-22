@@ -3,7 +3,7 @@
 🧑🏽‍💻 Web Developper Student sharing his Personnal Projects and his Journey through Tech <br/>
 🗽 Working everyday until i become freelancer or got an internship
 🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/>
-💭 Currently learning more about Web Technologies and AI automation for [Music Industry](https://www.youtube.com/watch?v=i_Iq4_Kd7Rc&t=15097s) <br/>
+💭 Currently learning more about Web Technologies and Web Design <br/>
 📝 Here is my [resume](https://www.overleaf.com/read/vfzbvwgrbbxc#4824aa) for curious people <br/>
 
 
