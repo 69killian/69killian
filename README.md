@@ -1,6 +1,6 @@
 <!-- Level 2: Bio and Detailled Features -->
 # 💫Hi, I'm Killian !
-🧑🏽‍💻 Web Developper sharing his Personnal Projects and his Journey through Tech <br/>
+🧑🏽‍💻 Full Stack Developper sharing his Personnal Projects and his Journey through Tech <br/>
 🗽 Working everyday until i become freelancer for 2025
 🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/>
 💭 Currently learning more about Web Technologies (MERN stack espacially) and Web Design (Figma and Webflow) <br/>
