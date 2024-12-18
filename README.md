@@ -4,7 +4,7 @@
 🗽 Working everyday until i become freelancer for 2025
 🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/>
 💭 Currently learning more about Web Technologies (NextJS) and Web Design (Figma and Webflow) <br/>
-📝 Here is my [resume](https://www.overleaf.com/read/vfzbvwgrbbxc#4824aa) for curious people <br/>
+📝 Curious ? check my [resume](https://www.overleaf.com/read/vfzbvwgrbbxc#4824aa) for curious people <br/>
 
 
 ## 🌐 Socials:
