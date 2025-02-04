@@ -3,7 +3,7 @@
 🧑🏽‍💻 Full Stack Developper sharing his Personnal Projects and his Journey through IT <br/>
 🗽 Working everyday until i become freelancer or got an internship for 2025
 🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/>
-💭 Currently learning more about Computer Science (CS50X), Web Technologies (NextJS) and Web Design (Framer) <br/>
+💭 Currently learning more about Computer Science (CS50X), Web Technologies (NextJS) and Web Design (Framer builder) <br/>
 📝 Check my [resume](Killian(eng).pdf) for curious people <br/>
 
 
