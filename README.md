@@ -1,5 +1,5 @@
 <!-- Level 2: Bio and Detailled Features -->
-# 💫Hi, I'm Killian
+# 💫Hi ! I'm Killian
 🧑🏽‍💻 A NextJs Developper sharing his Personnal Projects and his Journey through IT <br/>
 🗽 Working everyday until i become freelancer or got an internship for 2025
 🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/>
