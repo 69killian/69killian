@@ -1,9 +1,24 @@
 <!-- Level 2: Bio and Detailled Features -->
 # 💫Hi ! I'm Killian
-🧑🏽‍💻 A NextJs Developper sharing his Personnal Projects and his Journey through IT <br/>
-🗽 Working everyday until i become freelancer or got an internship for 2025
-🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/>
-💭 Currently learning more about Computer Science (CS50X), Web Technologies (NextJS) and Web Design (Framer builder) <br/>
+🧑🏽‍💻 A NextJs Developper sharing his Personnal Projects and his Journey through IT <br/> 
+🔥 SaaS Enthusiast | Growth-Driven Builder <br/>
+🗽 Working everyday until i become freelancer or got an internship for 2025 <br/>
+💻 Specializing in Next.js, React, Laravel, Prisma, MongoDB, and Tailwind CSS. <br/>
+🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/> <br/>
+💭 📌 Currently working on : <br/><br/>
+  Gitify – A gamification platform for developers on GitHub <br/>
+  Component Library SaaS – A resource hub for Figma & Framer UI kits <br/>
+  
+📚 Learning : <br/><br/>
+  CS50x for low-level programming fundamentals <br/>
+
+📈 Goals for 2025 : <br/><br/>
+  Launch & scale micro-SaaS projects <br/>
+  Build a strong dev brand on Twitter, LinkedIn & YouTube<br/>
+  Get my CS50x certification & freelance status<br/>
+
+💡 I believe in action over theory, and I'm all about learning, building, and sharing.
+  
 📝 Here is my [resume](Killian(eng).pdf) if interested <br/>
 
 
