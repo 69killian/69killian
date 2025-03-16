@@ -14,7 +14,7 @@
 
 📈 Goals for 2025 : <br/><br/>
   Launch & scale micro-SaaS projects <br/>
-  Build a strong dev brand on Twitter, LinkedIn & YouTube<br/>
+  Build a strong dev brand on Twitter, LinkedIn<br/>
   Get my CS50x certification & freelance status<br/>
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing.
