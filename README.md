@@ -4,7 +4,7 @@
 🔥 SaaS Enthusiast | Growth-Driven Builder <br/>
 🗽 Working everyday until i become freelancer or got an internship for 2025 <br/>
 💻 Specializing in Next.js, React, Laravel, Prisma, MongoDB, and Tailwind CSS. <br/>
-🧑🏽‍🎓 Self Taught [Computer Science](https://www.studi.com/fr/formation/developpement/graduate-developpeur-front-end) at my Home <br/> <br/>
+🧑🏽‍🎓 Self Taught Computer Science at Home <br/> <br/>
 💭 📌 Currently working on : <br/><br/>
   Gitify – A gamification platform for developers on GitHub <br/>
   Component Library SaaS – A resource hub for Figma & Framer UI kits <br/>
