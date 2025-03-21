@@ -1,6 +1,6 @@
 <!-- Level 2: Bio and Detailled Features -->
 # 💫Hi ! I'm Killian
-🧑🏽‍💻 A NextJs Developper sharing his Personnal Projects and his Journey through IT <br/> 
+🧑🏽‍💻 A NextJs Developer sharing his Personnal Projects and his Journey through IT <br/> 
 🔥 SaaS Enthusiast | Growth-Driven Builder <br/>
 🗽 Working everyday until i become freelancer or got an internship for 2025 <br/>
 💻 Specializing in Next.js, React, Laravel, Prisma, MongoDB, and Tailwind CSS. <br/>
