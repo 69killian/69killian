@@ -19,7 +19,7 @@
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing.
   
-📝 Here is my [resume](MTeck_s_Resume-2.pdf) if interested <br/>
+📝 Here is my [resume](MTeck_s_Resume-2.pdf) for interesting opportunities <br/>
 
 
 ## 🌐 Socials :
