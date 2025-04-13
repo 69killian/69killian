@@ -8,7 +8,6 @@
 💭 📌 Currently working on : <br/><br/>
   Gitify – A gamification platform for Open-Source developers <br/>
   Component Library SaaS – A resource hub for Figma & Framer UI kits <br/>
-  TrackHub – micro-SaaS for Tracking Habits <br/>
   
 📚 Learning : <br/><br/>
   CS50x for low-level programming fundamentals <br/>
