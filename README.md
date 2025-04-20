@@ -6,7 +6,6 @@
 💻 Specializing in Next.js, React, Laravel, Prisma, MongoDB, and Tailwind CSS. <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home <br/> <br/>
 💭 📌 Currently working on : <br/><br/>
-  Gitify – A gamification platform for Open-Source developers <br/>
   Component Library SaaS – A resource hub for Figma & Framer UI kits <br/>
   
 📚 Learning : <br/><br/>
