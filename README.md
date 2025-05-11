@@ -7,9 +7,6 @@
 🧑🏽‍🎓 Self Taught Computer Science at Home <br/> <br/>
 💭 📌 Currently working on : <br/><br/>
   Component Library SaaS – A resource hub for Figma & Framer UI kits <br/>
-  
-📚 Learning : <br/><br/>
-  CS50x for low-level programming fundamentals <br/>
 
 📈 Goals for 2025 : <br/><br/>
   Launch & scale micro-SaaS projects <br/>
