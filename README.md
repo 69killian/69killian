@@ -6,7 +6,7 @@
 💻 Specializing in Next.js, React, Laravel, Prisma, MongoDB, and Tailwind CSS. <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home <br/> <br/>
 💭 📌 Currently working on : <br/><br/>
-  Component Library SaaS – A resource hub for Figma & Framer UI kits <br/>
+  OpenSource Together <br/>
 
 📈 Goals for 2025 : <br/><br/>
   Launch & scale micro-SaaS projects <br/>
