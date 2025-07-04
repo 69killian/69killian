@@ -8,7 +8,7 @@
   OpenSource Together <br/>
 
 📈 Goals for 2025 : <br/>
-  Launch & scale micro-SaaS projects <br/>
+  Launch & scale Huge projects <br/>
   Build a strong dev brand on Twitter, LinkedIn<br/>
   Get my CS50x certification & freelance status<br/>
 
