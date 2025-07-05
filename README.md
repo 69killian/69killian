@@ -10,12 +10,8 @@
 📈 Goals for 2025 : <br/>
   Launch & scale Huge projects <br/>
   Build a strong dev brand on Twitter, LinkedIn<br/>
-  Get my CS50x certification & freelance status<br/>
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing
-  
-📝 Here is my [resume](MTeck_s_Resume-2.pdf) for interesting opportunities <br/>
-
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-marty-557b78334/) 
