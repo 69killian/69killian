@@ -9,7 +9,7 @@
 
 📈 Goals for 2025 : <br/>
   Launch & scale Huge projects <br/>
-  Build a strong dev brand on Twitter, LinkedIn<br/>
+  Build a strong dev brand on X and LinkedIn<br/>
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing
 
