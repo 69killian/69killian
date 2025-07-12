@@ -1,6 +1,6 @@
 <!-- Level 2: Bio and Detailled Features -->
 # 💫Hi ! I'm Killian
-🧑🏽‍💻 A Frontend Developer student sharing his Personnal Projects and his Journey through IT <br/> 
+🧑🏽‍💻 A Frontend Developer sharing his Personnal Projects and his Journey through IT <br/> 
 🗽 Working everyday until i become freelancer or got an internship for 2025 <br/>
 💻 Specializing in Next.js <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home <br/> <br/>
