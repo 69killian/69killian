@@ -3,7 +3,6 @@
 🧑🏽‍💻 Frontend Developer sharing his Personnal Projects and his Journey through IT <br/> 
 🗽 Working everyday as a freelancer <br/>
 💻 Specializing in Next.js <br/>
-💯 +1.8k humans following me through my Linkedin and X <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
 💭 📌 Currently working on : <br/>
   OpenSource Together <br/>
