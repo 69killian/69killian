@@ -1,6 +1,6 @@
 <!-- Level 2: Bio and Detailled Features -->
 # 💫Hi ! I'm Killian
-🧑🏽‍💻 Frontend Developer sharing his Personnal Projects and his Journey through IT <br/> 
+🧑🏽‍💻 FullSTack Developer sharing his Personnal Projects and his Journey through IT <br/> 
 🗽 Working everyday <br/>
 💻 Specializing in Next.js <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
