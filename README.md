@@ -5,7 +5,7 @@
 🗽 Working everyday <br/>
 💻 Specializing in Next.js <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
-💭 📌 Currently working on : <br/>
+📌 Currently working on : <br/>
   OpenSource Together <br/>
 
 📈 Goals for 2025 : <br/>
