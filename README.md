@@ -8,7 +8,7 @@
 📌 Currently working on : <br/>
   OpenSource Together <br/>
 
-📈 Goals for 2025 - 2026 : <br/>
+📈 Goals for 2026 : <br/>
   Launch & scale Gitify V2 on OST <br/>
   Build a strong dev brand on X and LinkedIn<br/>
 
