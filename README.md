@@ -12,7 +12,7 @@
   Launch & scale Gitify V2 <br/>
   Build a strong dev brand on X and LinkedIn<br/>
 
-💡 I believe in action over theory, and I'm all about learning, building, and sharing my creations
+💡 I believe in action over theory, and I'm all about learning, building, and sharing my projects
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-marty-557b78334/) 
