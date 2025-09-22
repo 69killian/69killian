@@ -1,6 +1,6 @@
 <!-- Level 2: Bio and Detailled Features -->
 
-# 💫Hi, I'm Killian
+# 💫I'm Killian
 🧑🏽‍💻 Fullstack Developer sharing his Journey through IT <br/> 
 🗽 Working everyday <br/>
 💻 Next.js fan <br/>
