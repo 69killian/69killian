@@ -5,7 +5,7 @@
 💻 Next.js fan <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
 📌 Currently working on : <br/>
-  OpenSource Together <br/>
+  OpenSource Together (the best team ever) <br/>
 
 📈 Goals for 2k26 : <br/>
   Launch & scale OST <br/>
