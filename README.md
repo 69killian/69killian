@@ -2,7 +2,7 @@
 
 # 💫Hi, I'm Killian
 🧑🏽‍💻 Fullstack Developer sharing his Journey through IT <br/>
-💻 Next.js fan <br/>
+💻 Next.js absolute fan <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
 📌 Currently working on : <br/>
   OpenSource Together as Founder Frontend (the best team ever) <br/>
