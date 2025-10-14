@@ -7,7 +7,7 @@
 📌 Currently working on : <br/>
   OpenSource Together as Founder Frontend (the best team ever) <br/>
 
-📈 Goals for 2k26 : <br/>
+📈 Goals for 2026 : <br/>
   Launch & scale OST <br/>
   Launch & scale Gitify V2 <br/>
   Build a strong dev brand on X and LinkedIn<br/>
