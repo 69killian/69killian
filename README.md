@@ -5,7 +5,7 @@
 💻 Next.js absolute fan <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
 📌 Currently working at : <br/>
-  OpenSource Together as Founder Frontend (the best team ever) <br/>
+  OpenSource Together as Founder Front dev (the best team ever) <br/>
 
 📈 Goals for 2026 : <br/>
   Launch & scale OST <br/>
