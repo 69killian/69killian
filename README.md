@@ -8,9 +8,9 @@
   OpenSource Together as Founder Front dev (the best team ever) <br/>
 
 📈 Goals for 2026 : <br/>
-  Launch & scale OST <br/>
-  Create Gitify 2.0 <br/>
-  Build a strong dev brand on X and LinkedIn<br/>
+  Scale OST to the top <br/>
+  Launch Gitify 2.0 <br/>
+  Build a strong dev brand on X <br/>
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing my projects
 
