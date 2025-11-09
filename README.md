@@ -1,7 +1,7 @@
 <!-- Level 2: Bio and Detailled Features -->
 
 # 💫Hi, I'm Killian
-🧑🏽‍💻 Fullstack Developer sharing his Journey through IT <br/>
+🧑🏽‍💻 Fullstack Developer sharing his Journey through Tech <br/>
 💻 Next.js fan <br/>
 🧑🏽‍🎓 Self Taught Computer Science at Home with associate degree <br/> <br/>
 📌 Currently working at : <br/>
