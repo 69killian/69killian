@@ -9,7 +9,6 @@
 
 📈 Goals for 2026 and plus : <br/>
   Scale OST to the top <br/>
-  Launch Gitify 2.0 <br/>
   Build a strong dev brand on X <br/>
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing my projects
