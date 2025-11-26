@@ -7,7 +7,7 @@
 📌 Currently working at : <br/>
   OpenSource Together as Founder Front dev (the best team ever) <br/>
 
-📈 Goals for 2026 and plus : <br/>
+📈 Goals for 2026 : <br/>
   Scale OST to the top <br/>
   Build a strong dev brand on X <br/>
 
