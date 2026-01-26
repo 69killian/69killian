@@ -10,6 +10,7 @@
 📈 Goals for 2026 : <br/>
   Scale OST to the top <br/>
   Build a strong dev brand on X <br/>
+  Get a new school <br/>
 
 💡 I believe in action over theory, and I'm all about learning, building, and sharing my projects
 
