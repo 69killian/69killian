@@ -19,7 +19,7 @@
 </table>
 
 
-<!--
+
 # 💫Hi, I'm Killian
 🧑🏽‍🎓 Computer Science Student <br/>
 🧑🏽‍💻 Fullstack Developer sharing his Journey through Tech <br/>
@@ -36,6 +36,7 @@
 ## 🌐 My Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-marty-557b78334/) 
 
+<!--
 ## 💻 Stack :
 
 ## 📊 GitHub Streak and Stats :
