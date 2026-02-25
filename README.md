@@ -20,7 +20,7 @@
 
 
 
-# 💫Hi, I'm Killian
+
 🧑🏽‍🎓 Computer Science Student <br/>
 🧑🏽‍💻 Fullstack Developer sharing his Journey through Tech <br/>
 💻 Next.js and Python fan <br/>
