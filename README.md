@@ -24,6 +24,7 @@
 🧑🏽‍🎓 Computer Science Student <br/>
 🧑🏽‍💻 Fullstack Developer sharing his Journey through Tech <br/>
 💻 Next.js and Python fan <br/>
+
 📌 Currently working at : <br/>
   OpenSource Together as Founder Front dev (the best team ever) <br/>
 
