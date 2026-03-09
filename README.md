@@ -46,6 +46,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=69killian&theme=merko&hide_border=false)<br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=69killian&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
