@@ -30,10 +30,9 @@
 
 📈 Goals for 2026 : <br/>
   Join the 42 team <br/>
-
+<!--
 💡 I believe in action over theory, and I'm all about learning, building, and sharing my projects
 
-<!--
 ## 🌐 My Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/killian-marty-557b78334/) 
 
