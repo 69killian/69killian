@@ -31,6 +31,7 @@
 📈 Goals for 2026 : <br/>
   Join the 42 team <br/>
   
+
 <!--
 💡 I believe in action over theory, and I'm all about learning, building, and sharing my projects
 
