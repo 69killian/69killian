@@ -6,7 +6,6 @@
 
                 I believe in action over theory.
 
-
 <table width="100%" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
     <td align="center" valign="middle" style="width: 50%; border: none; padding: 0;">
