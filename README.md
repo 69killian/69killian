@@ -1,4 +1,4 @@
-<!-- Level 2: Bio and Detailled Features -->
+
 
 ![chihiro](chihirobanner2.png)
 
