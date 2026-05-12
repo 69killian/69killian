@@ -19,9 +19,6 @@
 🧑🏽‍💻 Fullstack Developer sharing his Journey through Tech <br/>
 💻 Next.js and Python fan <br/>
 
-📌 Currently working at : <br/>
-  OpenSource Together as Founder Front dev (the best team ever) <br/>
-
 📈 Goals for 2026 : <br/>
   Join the 42 team <br/>
 
